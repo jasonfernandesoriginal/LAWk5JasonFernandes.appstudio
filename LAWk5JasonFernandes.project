@@ -25,6 +25,14 @@
             "while",
             "while.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "for",
+            "for.json"
+          ]
         }
       ],
       "configxml": null,
@@ -46,7 +54,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "while",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
